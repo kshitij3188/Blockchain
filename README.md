@@ -8,4 +8,5 @@
 
 # Smart Contract
 
-![Ganache](Smart Contract/ganache.png?raw=true "Title")
+![EtherWallet](Smart-Contract/etherwallet.png?raw=true "Title")
+![Ganache](Smart-Contract/ganache.png?raw=true "Title")
